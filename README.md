@@ -9,8 +9,7 @@ Mi nombre es Max Segal, tengo 34 años y soy de Buenos Aires, Argentina. Estudi�
 
 Me llamo Nicolás Pantaleone, tengo 22 años y vivo en Buenos Aires, Argentina. Estoy a la mitad de la carrera de Diseño Gráfico Digital y trabajo para un colegio. Manejo, entre otras cosas, sus paginas webs con wix y moodle. Me interesé en la programación porque tengo ideas y no se como llevarlas a cabo y de paso aprendo algo solicitado en el mercado. Salgo constantemente con mis amigos y este año el paddle se volvió parte de nuestra rutina. Tambien disfruto de salir a caminar porque ahí mi mente vuela.
 
-
-
+Me llamo Macarena Ferreiro, tengo 25 años y soy de Buenos Aires, Argentina. Trabajo en un comercio familiar en el cual nuestro principal canal de venta es Mercado Libre. Es mi primera incurcion en el mundo de la programación y mi interés surgió por interiorizarme en lo que sucede cada vez que hago una acción en la plataforma, me considero curiosa y eso me llevó a anotarme en el curso. Mi hobby es hacer ejercicio y jugar al fútbol.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ref_1: WeWork
