@@ -7,6 +7,7 @@ Nuestros usuarios serán principalmente restaurantes y emprendedores gastronómi
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 Mi nombre es Max Segal, tengo 34 años y soy de Buenos Aires, Argentina. Estudié Ingeniería Industrial y en la actualidad tengo un emprendimiento de logística con un amigo de la universidad. En mis tiempos libres disfruto de hacer asados y salir a correr. Este proyecto es mi primera incursión en el mundo de la programación.
 
+Me llamo Nicolás Pantaleone, tengo 22 años y vivo en Buenos Aires, Argentina. Estoy a la mitad de la carrera de Diseño Gráfico Digital y trabajo para un colegio. Manejo, entre otras cosas, sus paginas webs con wix y moodle. Me interesé en la programación porque tengo ideas y no se como llevarlas a cabo y de paso aprendo algo solicitado en el mercado. Salgo constantemente con mis amigos y este año el paddle se volvió parte de nuestra rutina. Tambien disfruto de salir a caminar porque ahí mi mente vuela.
 
 
 
